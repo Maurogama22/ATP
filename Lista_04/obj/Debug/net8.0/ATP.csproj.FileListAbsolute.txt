@@ -1,0 +1,14 @@
+c:\Users\1315288\Documents\ATP\bin\Debug\net8.0\ATP.exe
+C:\Users\1315288\Documents\ATP\bin\Debug\net8.0\ATP.deps.json
+C:\Users\1315288\Documents\ATP\bin\Debug\net8.0\ATP.runtimeconfig.json
+c:\Users\1315288\Documents\ATP\bin\Debug\net8.0\ATP.dll
+c:\Users\1315288\Documents\ATP\bin\Debug\net8.0\ATP.pdb
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.AssemblyInfoInputs.cache
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.AssemblyInfo.cs
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.csproj.CoreCompileInputs.cache
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.dll
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\refint\ATP.dll
+c:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.pdb
+C:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ATP.genruntimeconfig.cache
+C:\Users\1315288\Documents\ATP\obj\Debug\net8.0\ref\ATP.dll
